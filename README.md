@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaditya Godham</h1>
-<h3 align="center">With a solid foundation in basic web development, proficient skills in Flutter and Dart for mobile app development, and familiarity with C++, Python, and Java, I am well-equipped for a software developer role. My diverse skill set enables me to adapt to various project requirements and collaborate effectively within development teams. Whether it's crafting responsive web interfaces, building dynamic mobile applications, or optimizing algorithms, I bring versatility and a keen problem-solving mindset. Eager to leverage my expertise and contribute to innovative software solutions, I am actively seeking opportunities in software development where I can apply and further enhance my skills</h3>
+<h3 align="center">Motivated and results-driven software developer with a proven ability to design and build scalable, high-performance applications.
+Adept at delivering secure, user-focused web and mobile solutions, with strong collaboration skills and a dedication to
+contributing to innovative organizations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-aadityagodham&label=Profile%20views&color=0e75b6&style=flat" alt="dev-aadityagodham" /> </p>
 
