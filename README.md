@@ -4,9 +4,6 @@ Adept at delivering secure, user-focused web and mobile solutions, with strong c
 contributing to innovative organizations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-aadityagodham&label=Profile%20views&color=0e75b6&style=flat" alt="dev-aadityagodham" /> </p>
-
-- 🌱 I’m currently learning **java,flutter**
-
 - 📫 How to reach me **aadityagodham321@gmail.com**
 
 
